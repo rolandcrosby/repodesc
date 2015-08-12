@@ -40,6 +40,3 @@ def main():
             info = get_repo_info(line.strip())
             if info:
                 print info['description']
-
-if __name__ == "__main__":
-    main()

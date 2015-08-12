@@ -1,0 +1,3 @@
+import repodesc
+
+repodesc.main()
